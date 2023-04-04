@@ -44,9 +44,9 @@ ______________________________________________________________________________
 
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] > 13) {
-            console.log(`Good: ${arr[i]}`);
+            console.log("Good:" + arr[i]);
         } else {
-            console.log(`Bad: ${arr[i]}`);
+            console.log("Bad:" + arr[i]);
         }
     }
 </nobr>
