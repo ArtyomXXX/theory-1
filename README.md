@@ -20,10 +20,10 @@ ______________________________________________________________________________
 Данный код выводит следующее:
 
  <nobr>  
-        Bad: undefined
-        Bad: undefined
-        Bad: undefined
-        Bad: undefined
+        Bad: undefined <br />
+        Bad: undefined <br />
+        Bad: undefined <br />
+        Bad: undefined <br />
 </nobr>
 
 Это происходит из-за того, что используется `var` для объявления переменной `i` в цикле.
